@@ -105,7 +105,9 @@ textarea {
   width: 100px;
   margin: 10px;
 }
-
+#box1{
+  background: red;
+}
 
 
 
